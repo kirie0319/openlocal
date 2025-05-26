@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "OpenLocal",
+    "subtitle": "Forum de la Communauté Locale"
+  },
+  "nav": {
+    "language": "Langue",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "welcome": "Bienvenue sur OpenLocal",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "username": "Nom d'utilisateur",
+    "preferredLanguage": "Langue préférée",
+    "location": "Localisation (Optionnel)",
+    "locationPlaceholder": "ex. Tokyo, Shibuya",
+    "selectLocation": "Veuillez sélectionner une localisation",
+    "searchLocation": "Rechercher une localisation (ex. Tokyo, Shinjuku)",
+    "loginButton": "Connexion",
+    "registerButton": "S'inscrire"
+  },
+  "main": {
+    "newPost": "Nouveau Message",
+    "localMode": "Mode Local",
+    "searchPlaceholder": "Rechercher des messages...",
+    "noPosts": "Aucun message pour le moment",
+    "noPostsSubtext": "Créez le premier message !"
+  },
+  "post": {
+    "title": "Titre",
+    "content": "Contenu",
+    "location": "Localisation (Optionnel)",
+    "locationPlaceholder": "ex. Tokyo, Shibuya",
+    "localOnly": "Message Local Uniquement",
+    "cancel": "Annuler",
+    "submit": "Publier",
+    "replies": "Réponses",
+    "reply": "Répondre",
+    "replyPlaceholder": "Écrivez votre réponse..."
+  },
+  "badges": {
+    "gpt": "GPT",
+    "local": "Local Uniquement",
+    "translated": "Traduit"
+  },
+  "messages": {
+    "usernameRequired": "Veuillez saisir un nom d'utilisateur",
+    "titleContentRequired": "Veuillez saisir le titre et le contenu",
+    "replyContentRequired": "Veuillez saisir le contenu de la réponse",
+    "loginSuccess": "Connexion réussie",
+    "registerSuccess": "Inscription terminée",
+    "postCreated": "Publication créée avec succès",
+    "replyCreated": "Réponse publiée avec succès",
+    "loginError": "Échec de la connexion",
+    "registerError": "Échec de l'inscription",
+    "postError": "Échec de la création de la publication",
+    "replyError": "Échec de la publication de la réponse",
+    "loadError": "Échec du chargement des données",
+    "noResults": "Aucun résultat trouvé",
+    "languageChanged": "Langue changée en {language}"
+  },
+  "modes": {
+    "local": "Mode Local",
+    "open": "Mode Ouvert"
+  },
+  "loading": "Chargement...",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "ko": "한국어",
+    "zh": "中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+} 

@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "OpenLocal",
+    "subtitle": "本地社区论坛"
+  },
+  "nav": {
+    "language": "语言",
+    "logout": "退出登录"
+  },
+  "auth": {
+    "welcome": "欢迎来到OpenLocal",
+    "login": "登录",
+    "register": "注册",
+    "username": "用户名",
+    "preferredLanguage": "首选语言",
+    "location": "地区（可选）",
+    "locationPlaceholder": "例：东京，涩谷",
+    "selectLocation": "请选择地区",
+    "searchLocation": "请搜索地区（例：东京，新宿）",
+    "loginButton": "登录",
+    "registerButton": "注册"
+  },
+  "main": {
+    "newPost": "新帖子",
+    "localMode": "本地模式",
+    "searchPlaceholder": "搜索帖子...",
+    "noPosts": "暂无帖子",
+    "noPostsSubtext": "创建第一个帖子吧！"
+  },
+  "post": {
+    "title": "标题",
+    "content": "内容",
+    "location": "地区（可选）",
+    "locationPlaceholder": "例：东京都涩谷区",
+    "localOnly": "仅限本地帖子",
+    "cancel": "取消",
+    "submit": "发布",
+    "replies": "回复",
+    "reply": "回复",
+    "replyPlaceholder": "输入您的回复..."
+  },
+  "badges": {
+    "gpt": "GPT",
+    "local": "仅限本地",
+    "translated": "已翻译"
+  },
+  "messages": {
+    "usernameRequired": "请输入用户名",
+    "titleContentRequired": "请输入标题和内容",
+    "replyContentRequired": "请输入回复内容",
+    "loginSuccess": "登录成功",
+    "registerSuccess": "注册完成",
+    "postCreated": "帖子创建成功",
+    "replyCreated": "回复发布成功",
+    "loginError": "登录失败",
+    "registerError": "注册失败",
+    "postError": "帖子创建失败",
+    "replyError": "回复发布失败",
+    "loadError": "数据加载失败",
+    "noResults": "没有搜索结果",
+    "languageChanged": "语言已更改为{language}"
+  },
+  "modes": {
+    "local": "本地模式",
+    "open": "开放模式"
+  },
+  "loading": "加载中...",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "ko": "한국어",
+    "zh": "中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+} 

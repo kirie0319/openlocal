@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "OpenLocal",
+    "subtitle": "地域コミュニティ掲示板"
+  },
+  "nav": {
+    "language": "言語",
+    "logout": "ログアウト"
+  },
+  "auth": {
+    "welcome": "OpenLocalへようこそ",
+    "login": "ログイン",
+    "register": "新規登録",
+    "username": "ユーザー名",
+    "preferredLanguage": "使用言語",
+    "location": "地域（任意）",
+    "locationPlaceholder": "例: 東京都渋谷区",
+    "selectLocation": "地域を選択してください",
+    "searchLocation": "地域を検索してください（例：東京、新宿）",
+    "loginButton": "ログイン",
+    "registerButton": "新規登録"
+  },
+  "main": {
+    "newPost": "新しい投稿",
+    "localMode": "地元モード",
+    "searchPlaceholder": "投稿を検索...",
+    "noPosts": "まだ投稿がありません",
+    "noPostsSubtext": "最初の投稿を作成してみましょう！"
+  },
+  "post": {
+    "title": "タイトル",
+    "content": "内容",
+    "location": "地域（任意）",
+    "locationPlaceholder": "例: 東京都渋谷区",
+    "localOnly": "地域限定投稿",
+    "cancel": "キャンセル",
+    "submit": "投稿する",
+    "replies": "返信",
+    "reply": "返信する",
+    "replyPlaceholder": "返信を入力してください..."
+  },
+  "badges": {
+    "gpt": "GPT",
+    "local": "地域限定",
+    "translated": "翻訳済み"
+  },
+  "messages": {
+    "usernameRequired": "ユーザー名を入力してください",
+    "titleContentRequired": "タイトルと内容を入力してください",
+    "replyContentRequired": "返信内容を入力してください",
+    "loginSuccess": "ログインしました",
+    "registerSuccess": "登録が完了しました",
+    "postCreated": "投稿を作成しました",
+    "replyCreated": "返信を投稿しました",
+    "loginError": "ログインに失敗しました",
+    "registerError": "登録に失敗しました",
+    "postError": "投稿の作成に失敗しました",
+    "replyError": "返信の投稿に失敗しました",
+    "loadError": "データの読み込みに失敗しました",
+    "noResults": "検索結果がありません",
+    "languageChanged": "言語を{language}に変更しました"
+  },
+  "modes": {
+    "local": "地元モード",
+    "open": "オープンモード"
+  },
+  "loading": "読み込み中...",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "ko": "한국어",
+    "zh": "中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+} 

@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "OpenLocal",
+    "subtitle": "Local Community Board"
+  },
+  "nav": {
+    "language": "Language",
+    "logout": "Logout"
+  },
+  "auth": {
+    "welcome": "Welcome to OpenLocal",
+    "login": "Login",
+    "register": "Sign Up",
+    "username": "Username",
+    "preferredLanguage": "Preferred Language",
+    "location": "Location (Optional)",
+    "locationPlaceholder": "e.g. Tokyo, Shibuya",
+    "selectLocation": "Please select a location",
+    "searchLocation": "Search for a location (e.g. Tokyo, Shinjuku)",
+    "loginButton": "Login",
+    "registerButton": "Sign Up"
+  },
+  "main": {
+    "newPost": "New Post",
+    "localMode": "Local Mode",
+    "searchPlaceholder": "Search posts...",
+    "noPosts": "No posts yet",
+    "noPostsSubtext": "Create the first post!"
+  },
+  "post": {
+    "title": "Title",
+    "content": "Content",
+    "location": "Location (Optional)",
+    "locationPlaceholder": "e.g. Tokyo, Shibuya",
+    "localOnly": "Local Only Post",
+    "cancel": "Cancel",
+    "submit": "Post",
+    "replies": "Replies",
+    "reply": "Reply",
+    "replyPlaceholder": "Enter your reply..."
+  },
+  "badges": {
+    "gpt": "GPT",
+    "local": "Local Only",
+    "translated": "Translated"
+  },
+  "messages": {
+    "usernameRequired": "Please enter a username",
+    "titleContentRequired": "Please enter title and content",
+    "replyContentRequired": "Please enter reply content",
+    "loginSuccess": "Logged in successfully",
+    "registerSuccess": "Registration completed",
+    "postCreated": "Post created successfully",
+    "replyCreated": "Reply posted successfully",
+    "loginError": "Login failed",
+    "registerError": "Registration failed",
+    "postError": "Failed to create post",
+    "replyError": "Failed to post reply",
+    "loadError": "Failed to load data",
+    "noResults": "No search results found",
+    "languageChanged": "Language changed to {language}"
+  },
+  "modes": {
+    "local": "Local Mode",
+    "open": "Open Mode"
+  },
+  "loading": "Loading...",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "ko": "한국어",
+    "zh": "中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+} 

@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "OpenLocal",
+    "subtitle": "지역 커뮤니티 게시판"
+  },
+  "nav": {
+    "language": "언어",
+    "logout": "로그아웃"
+  },
+  "auth": {
+    "welcome": "OpenLocal에 오신 것을 환영합니다",
+    "login": "로그인",
+    "register": "회원가입",
+    "username": "사용자명",
+    "preferredLanguage": "선호 언어",
+    "location": "지역 (선택사항)",
+    "locationPlaceholder": "예: 도쿄, 시부야",
+    "selectLocation": "지역을 선택해주세요",
+    "searchLocation": "지역을 검색해주세요 (예: 도쿄, 신주쿠)",
+    "loginButton": "로그인",
+    "registerButton": "회원가입"
+  },
+  "main": {
+    "newPost": "새 게시물",
+    "localMode": "지역 모드",
+    "searchPlaceholder": "게시물 검색...",
+    "noPosts": "아직 게시물이 없습니다",
+    "noPostsSubtext": "첫 번째 게시물을 작성해보세요!"
+  },
+  "post": {
+    "title": "제목",
+    "content": "내용",
+    "location": "지역 (선택사항)",
+    "locationPlaceholder": "예: 서울시 강남구",
+    "localOnly": "지역 한정 게시물",
+    "cancel": "취소",
+    "submit": "게시",
+    "replies": "댓글",
+    "reply": "댓글 달기",
+    "replyPlaceholder": "댓글을 입력하세요..."
+  },
+  "badges": {
+    "gpt": "GPT",
+    "local": "지역 한정",
+    "translated": "번역됨"
+  },
+  "messages": {
+    "usernameRequired": "사용자명을 입력해주세요",
+    "titleContentRequired": "제목과 내용을 입력해주세요",
+    "replyContentRequired": "답글 내용을 입력해주세요",
+    "loginSuccess": "로그인되었습니다",
+    "registerSuccess": "가입이 완료되었습니다",
+    "postCreated": "게시글이 작성되었습니다",
+    "replyCreated": "답글이 작성되었습니다",
+    "loginError": "로그인에 실패했습니다",
+    "registerError": "가입에 실패했습니다",
+    "postError": "게시글 작성에 실패했습니다",
+    "replyError": "답글 작성에 실패했습니다",
+    "loadError": "데이터 로드에 실패했습니다",
+    "noResults": "검색 결과가 없습니다",
+    "languageChanged": "언어가 {language}로 변경되었습니다"
+  },
+  "modes": {
+    "local": "지역 모드",
+    "open": "오픈 모드"
+  },
+  "loading": "로딩 중...",
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "ko": "한국어",
+    "zh": "中文",
+    "es": "Español",
+    "fr": "Français"
+  }
+} 
